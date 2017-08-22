@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "tutorialmod",
+  "name": "Tutorial Mod",
+  "description": "Tutorial mod to learn modding.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Shadowl33ch"],
+  "credits": "The Forge and FML guys, for making forge and fml",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
